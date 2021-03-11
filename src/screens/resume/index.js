@@ -13,13 +13,6 @@ const contentDescription =
 
 const experienceData = [
   {
-    name: "Fresher Fullstack .net Developper",
-    time: "Jan - Present",
-    border: true,
-    unit: "DXC Việt Nam",
-    description: "Support student to learn front end course at Cybersoft academy",
-  },
-  {
     name: "Mentor",
     time: "Sept 2020 - Present",
     border: true,

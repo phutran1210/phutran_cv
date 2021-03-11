@@ -49,7 +49,7 @@ const About = () => {
                             Address
                           </Typography>
                           <Typography color="textSecondary" variant="body1">
-                            Fake Street
+                            118 Huỳnh thiện Lộc,Phường Hòa Thạnh,Quận Tân Phú
                           </Typography>
                         </div>
                       </Box>

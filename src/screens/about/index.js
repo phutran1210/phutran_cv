@@ -30,7 +30,7 @@ const About = () => {
                     maintenance. Also I am good at
                     <span>
                       {" "}
-                      html, css, javascript, sass, react, react-native, typescript, angular 9+.
+                      html, css,bootstrap, javascript, sass, react
                     </span>
                   </Typography>
                   <Box className={classes.control}>

@@ -7,11 +7,11 @@ import BackgroundText from "../../components/backgroundText";
 import Title from "../../components/title";
 import Line from "../../components/line";
 
-import Maua from "../../assets/img/maua.jpg";
-import Oneway from "../../assets/img/oneway.jpg";
-import MauaAdmin from "../../assets/img/admin.png";
-import Vietjet from "../../assets/img/vietjet.jpg";
-import VietjetBooking from "../../assets/img/vietjet-booking.jpg";
+// import Maua from "../../assets/img/maua.jpg";
+// import Oneway from "../../assets/img/oneway.jpg";
+// import MauaAdmin from "../../assets/img/admin.png";
+// import Vietjet from "../../assets/img/vietjet.jpg";
+// import VietjetBooking from "../../assets/img/vietjet-booking.jpg";
 import MyPortforlio from '../../assets/img/img-cv.PNG';
 import Elearning from '../../assets/img/E-learning.PNG';
 import Movie from '../../assets/img/img-movie.PNG'
@@ -21,8 +21,8 @@ import { theme } from "../../theme";
 
 // tech content
 const MY_PORTFORLIO = 'ReactJS, Lodash, History, clsx, Material UI, Deloyment by surge'
-const E_LEARNING = 'ReactJS,Redux,Redux-thunk, Axios, Material, Yup, Formik, React swipeable views, Prop Type, Notistack';
-const MOVIE = 'ReactJS, React slick, Redux, Redux-thunk, Axios, sweetalert2, Prop type, Material UI'
+const E_LEARNING = 'ReactJS,Redux,Redux-thunk, Axios, Material, Yup, Formik, React swipeable views, Prop Type, Notistack, Deloyment by Firebase';
+const MOVIE = 'ReactJS, React slick, Redux, Redux-thunk, Axios, sweetalert2, Prop type, Material UI, Deloyment by Firebase'
 const LANDINGSLIDE = "HTML,SASS,JS,Animation";
 const SCOTCH = "HTML,SASS,JS,Animation";
 
