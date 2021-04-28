@@ -9,21 +9,21 @@ import Line from "../../components/line";
 import { theme } from "../../theme";
 
 const contentDescription =
-  "Research source code of ASP.NET Zero.Migrate source code from MVC to ASP.NET Core MVC.Demo Drag and Drop component to create a template forwebsites.Write the project’ documentations"
+  "Demo"
 
 const experienceData = [
   {
     name: "Mentor",
-    time: "Sept 2020 - Present",
+    time: "Demo",
     border: true,
-    unit: "Cybersoft Academy",
-    description: "Support student to learn front end course at Cybersoft academy",
+    unit: "Demo",
+    description: "Demo",
   },
   {
-    name: "Inter .net Developer",
-    time: "Mar 2018 - Sept 2018",
+    name: "IDemo",
+    time: "Demo",
     border: false,
-    unit: "UNICCS Việt Nam",
+    unit: "Demo",
     description:
       `${contentDescription}`
   }
@@ -31,10 +31,10 @@ const experienceData = [
 
 const educationData = [
   {
-    name: "BACH KHOA HA NOI-HATECH",
+    name: "Fake",
     time: "2014 - 2018",
     border: true,
-    unit: "BACH KHOA HA NOI-HATECH",
+    unit: "fake",
     description:
       "Learn about major: computer science"
   },

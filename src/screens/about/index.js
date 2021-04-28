@@ -7,7 +7,7 @@ import BackgroundText from "../../components/backgroundText";
 import Title from "../../components/title";
 import Line from "../../components/line";
 import { theme } from "../../theme";
-import CV from "../../assets/CV.pdf";
+// import CV from "../../assets/CV.pdf";
 import clsx from "clsx";
 // =====================
 const About = () => {
@@ -38,7 +38,7 @@ const About = () => {
                       component="a"
                       display="block"
                       target="_blank"
-                      href={CV}
+                      href="_#"
                       className={classes.btnDownload}
                     >
                       <i className="fa fa-download" />

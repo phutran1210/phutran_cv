@@ -46,10 +46,10 @@ const About = () => {
                         <i className="fa fa-map-marker" />
                         <div>
                           <Typography color="textPrimary" variant="h4">
-                            Address
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos, ullam.
                           </Typography>
                           <Typography color="textSecondary" variant="body1">
-                            118 Huỳnh thiện Lộc,Phường Hòa Thạnh,Quận Tân Phú
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil harum, voluptatibus nam provident alias esse.
                           </Typography>
                         </div>
                       </Box>
@@ -63,7 +63,7 @@ const About = () => {
                             Email
                           </Typography>
                           <Typography color="textSecondary" variant="body1">
-                            phutran121094
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, dicta?
                             <br />
                             @gmail.com
                           </Typography>
@@ -78,7 +78,7 @@ const About = () => {
                             Skype
                           </Typography>
                           <Typography color="textSecondary" variant="body1">
-                            live:da82e76846c3598f || 01229066669
+                            Lorem ipsum dolor sit amet.
                           </Typography>
                         </div>
                       </Box>
